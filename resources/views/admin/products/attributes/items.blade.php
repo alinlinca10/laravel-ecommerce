@@ -1,0 +1,1 @@
+<livewire:products.products-attributes-table />
